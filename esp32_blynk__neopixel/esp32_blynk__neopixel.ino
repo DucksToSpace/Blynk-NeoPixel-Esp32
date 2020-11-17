@@ -11,7 +11,7 @@ int b = 0;
 
 //Define the pin of the NeoPixel strip connected to the Esp32 and The Numbers of Leds on the strip
 #define PIN 33
-#define NumLeds 50;
+#define NumLeds 50
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
